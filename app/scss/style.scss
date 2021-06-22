@@ -5,3 +5,12 @@
 @import 'global';
 
 
+.hide {
+	display: none;
+}
+
+.car {
+    width: 50px;
+    height: 100px;
+    background: transparent url('../images/enemy.png') center / cover no-repeat;
+}
